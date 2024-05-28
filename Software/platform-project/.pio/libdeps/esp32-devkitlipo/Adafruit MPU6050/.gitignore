@@ -1,0 +1,5 @@
+html/
+Doxyfile
+.vscode/
+*.hex
+*.elf
